@@ -1,9 +1,8 @@
-/* .nav-container{
-    margin-left: 72px;
-    padding-left: 15px;
-    display: flex;
+/* *{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
 } */
-
 .nav-item a:hover{
     color: #ffee00 !important;
     
@@ -15,4 +14,7 @@
     background-attachment: fixed !important;
     height: 200px !important;
     color: #ffffff !important;
+}
+.col-md-4 .d-flex img{
+    margin-left: calc(-10.5 * var(--bs-gutter-x)) !important;
 }
