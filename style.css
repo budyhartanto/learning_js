@@ -1,0 +1,18 @@
+/* .nav-container{
+    margin-left: 72px;
+    padding-left: 15px;
+    display: flex;
+} */
+
+.nav-item a:hover{
+    color: #ffee00 !important;
+    
+}
+
+.motto-img{
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    height: 200px !important;
+    color: #ffffff !important;
+}
